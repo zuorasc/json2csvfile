@@ -20,8 +20,8 @@ try{
 			file.write(row.join(',')+'\n');
 		}
 		file.end();
-		console.log(outFile + " successfully written. You're welcome ;)")
+		console.log(outFile + " successfully written. You're welcome ;)");
 	})
 }catch(error){
-	console.log(error.message)
+	console.log(error.message);
 }
