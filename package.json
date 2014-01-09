@@ -1,6 +1,6 @@
 {
   "name": "json2csvfile",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Convert a JSON file to a CSV File",
   "main": "index.js",
   "bin" : {"json2csvfile" : "index.js"},

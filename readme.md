@@ -4,7 +4,6 @@
 
 ## Installation
 `npm install -g json2csvfile`
-npm
 
 ##Usage
 `json2csvfile infile.json outfile.csv`
