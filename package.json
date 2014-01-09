@@ -1,8 +1,9 @@
 {
   "name": "json2csvfile",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Convert a JSON file to a CSV File",
   "main": "index.js",
+  "bin" : "node index.js",
   "keywords": [
     "csv",
     "json",
