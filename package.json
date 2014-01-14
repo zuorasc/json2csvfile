@@ -1,18 +1,18 @@
 {
-  "name": "json2csvfile",
-  "version": "0.1.4",
-  "description": "Convert a JSON file to a CSV File",
-  "main": "index.js",
-  "bin" : {"json2csvfile" : "index.js"},
-  "keywords": [
-    "csv",
-    "json",
-    "convert"
-  ],
-  "repository":"git@github.com:zuorasc/json2csvfile.git",
-  "author": "John Henry",
-  "license": "BSD-2-Clause",
-  "dependencies": {
-    "optimist": "0.6.x"
-  }
+    "name": "json2csvfile",
+    "version": "0.1.5",
+    "description": "Convert a JSON file to a CSV File",
+    "main": "index.js",
+    "bin" : {"json2csvfile" : "index.js"},
+    "keywords": [
+        "csv",
+        "json",
+        "convert"
+    ],
+    "repository":"git@github.com:zuorasc/json2csvfile.git",
+    "author": "John Henry",
+    "license": "BSD-2-Clause",
+    "dependencies": {
+        "optimist": "0.6.x"
+    }
 }
